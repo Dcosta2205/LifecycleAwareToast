@@ -1,0 +1,2 @@
+rootProject.name = "LifeCycleAwareTimer"
+include ':app'
